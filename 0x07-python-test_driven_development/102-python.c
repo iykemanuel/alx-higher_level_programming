@@ -1,5 +1,4 @@
-Chioma2000
-/
+iykemanuel/
 alx-higher_level_programming
 Public
 Code
@@ -11,8 +10,8 @@ Wiki
 Security
 Insights
 alx-higher_level_programming/0x07-python-test_driven_development/102-python.c
-@Ikechukwu
-Ikechukwu Tests
+@iykemanuel
+iykemanuel Tests
  1 contributor
 28 lines (23 sloc)  625 Bytes
 #include "Python.h"
